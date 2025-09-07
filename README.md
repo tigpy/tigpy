@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 <h3 align="center">Passionate BSc IT Student Mastering JAVA, Web Dev, and Competitive Programming with a Focus on DSA</h3>
-<img align="right" alt="Coding" width="400" src="https://clipart-library.com/images/yTkre6E8c.gif">
+<img align="right" alt="Coding" width="400" src="![yTkre6E8c](https://github.com/user-attachments/assets/b9e954c0-b74f-4266-905a-17ddb1c57704)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigpy&label=Profile%20views&color=0e75b6&style=flat" alt="tigpy" /> </p>
 
