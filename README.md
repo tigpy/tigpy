@@ -1,38 +1,42 @@
 <!-- -----------------------------------------------------------
-💡 Drop this into your GitHub profile README.md
-     Cybersecurity-focused, clean, modern, dark/light aware
+💡 GitHub Profile README – Cybersecurity Focused
+     Clean, modern, dark/light aware, mobile-friendly
 ------------------------------------------------------------ -->
 
-<!-- Header / Hero -->
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Hi%20👋,%20I'm%20Aryan%20Singh&fontSize=38&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
+<!-- Contact + Views -->
 <p align="center">
   <a href="mailto:aggsijs527@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-aggsijs527%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-aggsijs527%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=tigpy">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tigpy&label=Profile%20views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=tigpy&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
 </p>
 
+<!-- Typing Intro -->
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%F0%9F%94%90;Ethical+Hacking+%26+Network+Security;Learning+by+Breaking+and+Securing+Systems;Hands-on+Labs+%7C+TryHackMe+%7C+Linux" alt="Typing intro" />
-    <br/>
-    <iframe 
-      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3970714"
-      style="border:none;">
-    </iframe>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%F0%9F%94%90;Ethical+Hacking+%26+Network+Security;Learning+by+Breaking+and+Securing+Systems;Hands-on+Labs+%7C+Linux+%7C+TryHackMe" alt="Typing intro" />
+</p>
+
+<!-- TryHackMe Badge -->
+<p align="center">
+  <a href="https://tryhackme.com/p/aggsijs527">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/aggsijs527.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
-<img align="right" alt="Cybersecurity animation" width="360" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/hacker.gif"/>
+<!-- OG Illustration -->
+<img align="right" alt="Cybersecurity illustration" width="360"
+src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif"/>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🎓 BSc IT student with a strong interest in **Cybersecurity & Ethical Hacking**
 - 🔐 Learning **network security, Linux, vulnerability analysis, and exploitation**
 - 🧪 Practicing hands-on labs on **TryHackMe** and local test environments
@@ -41,91 +45,88 @@
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with Me
 <p>
   <a href="https://linkedin.com/in/-aryan-artx-" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/22900112" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-22900112-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-22900112-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
   </a>
   <a href="https://instagram.com/aryan_artx_" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-aryan__artx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-aryan__artx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🧰 Skills & Tools
+## 🧰 Skills & Tools
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)"
       srcset="https://skillicons.dev/icons?i=linux,python,bash,git,github,java,html,css,js,mysql,postman,vscode&perline=8&theme=dark">
-    <img alt="Skills" 
-      src="https://skillicons.dev/icons?i=linux,python,bash,git,github,java,html,css,js,mysql,postman,vscode&perline=8">
+    <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,java,html,css,js,mysql,postman,vscode&perline=8">
   </picture>
 </p>
 
-**Security Focus Areas**
-- Network fundamentals (TCP/IP, DNS, ports, protocols)
-- Linux command line & permissions
+**Cybersecurity Focus**
+- Linux fundamentals & permissions
+- Networking (TCP/IP, DNS, ports)
 - Nmap scanning & enumeration
 - Web security basics (OWASP Top 10)
-- Privilege escalation basics
-- Security labs & CTF-style learning
+- Privilege escalation fundamentals
+- CTF-style learning & labs
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 <p>
-  <img alt="Learning" src="https://img.shields.io/badge/Currently%20Learning-Cybersecurity%20Fundamentals-0f2027?style=flat-square">
-  <img alt="Practice" src="https://img.shields.io/badge/Hands--on-TryHackMe%20Labs-1c7ed6?style=flat-square">
-  <img alt="Ask me about" src="https://img.shields.io/badge/Ask%20me%20about-Networking%20%26%20Linux-00b894?style=flat-square">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Cybersecurity%20Fundamentals-0f2027?style=flat-square">
+  <img src="https://img.shields.io/badge/Hands--on-TryHackMe%20Labs-1c7ed6?style=flat-square">
+  <img src="https://img.shields.io/badge/Ask%20me%20about-Linux%20%26%20Networking-00b894?style=flat-square">
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=tigpy&show_icons=true&hide_border=true&count_private=true&theme=radical">
-    <img alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=tigpy&show_icons=true&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=tigpy&show_icons=true&hide_border=true&count_private=true">
   </picture>
 
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=tigpy&hide_border=true&theme=radical">
-    <img alt="GitHub Streak" 
-      src="https://streak-stats.demolab.com?user=tigpy&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=tigpy&hide_border=true">
   </picture>
 
 </div>
 
 ---
 
-### 🧩 Featured Security Projects
+## 🧩 Featured Security Projects
 <p align="center">
   <a href="https://github.com/tigpy/ztai-block">
-    <img width="48%" alt="ZTAI-Block" src="https://github-readme-stats.vercel.app/api/pin/?username=tigpy&repo=ztai-block&hide_border=true">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tigpy&repo=ztai-block&hide_border=true">
   </a>
   <a href="https://github.com/tigpy/security-labs">
-    <img width="48%" alt="Security Labs" src="https://github-readme-stats.vercel.app/api/pin/?username=tigpy&repo=security-labs&hide_border=true">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tigpy&repo=security-labs&hide_border=true">
   </a>
 </p>
 
 ---
 
 <details>
-  <summary>💡 More about me</summary>
+  <summary>💡 More About Me</summary>
 
-  - I learn cybersecurity by **doing labs, breaking things, and understanding why**
-  - Interested in **SOC, Pentesting, and Blue Team fundamentals**
-  - I document my learning so future me (and others) can benefit  
+  - I learn security by **doing labs and breaking systems safely**
+  - Interested in **SOC, Pentesting, and Blue Team basics**
+  - I document my learning to track progress and help others
 
 </details>
 
