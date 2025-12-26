@@ -20,6 +20,7 @@
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Passionate+BSc+IT+Student;Mastering+Java%2C+Web+Dev%2C+and+DSA;Competitive+Programming+%E2%9A%94%EF%B8%8F;Always+learning+AI+%26+Blockchain" alt="Typing intro" />
+       <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3970714" style='border:none;'></iframe>
   </a>
 </p>
 
