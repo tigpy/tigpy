@@ -12,7 +12,7 @@ Cybersecurity Student | Ethical Hacking | Linux Enthusiast
 
 ## About Me
 
-* 🎓 BSc IT Student
+* 🎓 BSc IT Graduate
 * 🔐 Passionate about Cybersecurity and Ethical Hacking
 * 🐧 Linux enthusiast
 * 🧪 Learning through TryHackMe and CTF challenges
