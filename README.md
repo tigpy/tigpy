@@ -1,93 +1,153 @@
-# ARYAN SINGH
-`tigpy`
-
 <table>
 <tr>
-<td width="60%" valign="top">
-
-*cybersecurity engineer, in training — Mumbai, India*
-
-**Aryan Singh** is a B.Sc. IT graduate now reading for an M.Sc. in Information & Cybersecurity at Guru Nanak Khalsa College. Working across web/application security, SOC-adjacent tooling, and authorized security research — building toward a junior security analyst role, an eJPT certification, and eventually a move to Canada, Ireland, or Australia.
-
+<td width="36%" align="center" valign="top">
+<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" alt="Aryan at the desk" width="268" />
+<br />
+<sub>the working portrait</sub>
 </td>
-<td width="40%" valign="top" align="center">
+<td width="64%" valign="middle">
 
-<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="230"/>
-<br/>
-<sub><i>attached to this release</i></sub>
+# Aryan Singh
+**tigpy** · Mumbai · India
+
+BSc Information Technology
+M.Sc. Information & Cybersecurity *(in progress)*
+
+I write software that inspects other software, and I test web applications the way they actually fail — in authorization, in access control, in the quiet logic between roles.
+
+The through-line is the same: graphs, logs, requests, and a written trail.
 
 </td>
 </tr>
 </table>
 
----
+<p>
+<a href="mailto:aggsijs527@gmail.com">email</a>
+&nbsp;·&nbsp;
+<a href="https://linkedin.com/in/-aryan-artx-">linkedin</a>
+&nbsp;·&nbsp;
+<a href="https://tryhackme.com/p/aggsijs527">tryhackme</a>
+&nbsp;·&nbsp;
+<a href="https://stackoverflow.com/users/22900112">stackoverflow</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/tigpy">github.com/tigpy</a>
+</p>
 
-# Changelog
+Right now the main build is <strong><a href="https://github.com/tigpy/gitty-ai">GITTY-AI</a></strong> — a repository-intelligence platform that parses a codebase, graphs it, and looks for risk. Beside it: authorized application-security research, an M.Sc. in Information & Cybersecurity, and a DSA lab that only counts if the algorithm earns its keep on telemetry.
 
-*All notable work is logged here, newest first.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `[gitty-ai]` — building
-Repository- and code-intelligence platform with a security-analysis layer.
-- **Added:** AST parsing, dependency graphing, vector-based vulnerability surfacing across codebases
-- **Stack:** FastAPI, Celery, Neo4j, Qdrant, React
-- **Repo:** github.com/tigpy/gitty-ai
+### GITTY-AI
+**[github.com/tigpy/gitty-ai](https://github.com/tigpy/gitty-ai)**
 
-## `[bug-bounty-os]` — active
-Structured, authorized security research workflow.
-- **Added:** a 19-phase hunt cycle; RBAC, IDOR, and auth-logic testing across authorized programs
-- **Stack:** Burp Suite, Obsidian, Dataview
-- **Repo:** private
+Ingests a Git repository, parses it (Python AST + Tree-sitter), and builds a typed property graph of files, functions, imports and calls. From there: OSV matching, secret / taint heuristics, 384-d embeddings in Qdrant, workers on Celery, a React cockpit on top.
 
-## `[cybersecurity-dsa-lab]` — building
-Data-structures-and-algorithms practice, reframed around security problems.
-- **Added:** core DSA exercises applied to log-analysis and telemetry-style problems
-- **Stack:** Python
-- **Repo:** github.com/tigpy/cybersecurity-dsa-lab
+Built because “search the repo” is not analysis. Analysis is a graph you can query.
 
-## `[evidentia]` — building
-A security-investigation project.
-- **Added:** telemetry correlation, evidence verification, security analysis
+`FastAPI · Celery · Neo4j · Qdrant · React · Redis`
 
-## `[portfolio-redesign]` — shipped
-Personal cybersecurity portfolio site.
-- **Added:** dark glassmorphism interface, custom accent system
-- **Stack:** React, Vite, Tailwind, Framer Motion
-- **Repo:** github.com/tigpy
+</td>
+<td width="50%" valign="top">
 
----
+### cybersecurity-dsa-lab
+**[github.com/tigpy/cybersecurity-dsa-lab](https://github.com/tigpy/cybersecurity-dsa-lab)**
 
-## Roadmap
+Data structures practiced as defensive engineering. Each lab is a SOC-shaped problem — auth-log normalization, failed-login detection, IOC dedup, alert queues — implemented from the structure up in Python, then documented.
 
-Not yet released:
-- eJPT certification — target 2027
-- Closing gaps in OAuth/JWT, GraphQL, and cloud attack surface, flagged while working through a ~60-title security book review
-- A research thread connecting DNA data storage systems to cybersecurity
+Built because leetcode fluency that cannot survive a log pipeline is incomplete.
 
-Already shipped:
-- M.Sc. Information & Cybersecurity coursework — in progress
-- Linux system administration syllabus, networking (CompTIA Network+ oriented) — completed
+`Python · telemetry · queues · graphs`
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-## Dependencies
+### Evidentia
+**[github.com/tigpy/Evidentia](https://github.com/tigpy/Evidentia)**
 
-```json
-{
-  "languages": ["Python", "Java", "JavaScript"],
-  "security": ["Nmap", "Burp Suite", "Wireshark", "Metasploit"],
-  "backend": ["FastAPI", "Flask", "Node.js", "React"],
-  "data": ["MySQL", "MongoDB"],
-  "infra": ["Docker", "AWS", "Linux"],
-  "vcs": ["Git"]
+Investigation work: correlating telemetry, verifying evidence, writing the analysis so a finding can be reconstructed later.
+
+`Python · correlation · write-ups`
+
+</td>
+<td valign="top">
+
+### Bug Bounty OS
+*private operating system for authorized research*
+
+A structured hunt cycle aimed at RBAC, IDOR, and authorization logic. Notes and phase tracking live in Obsidian; the browser work lives in Burp.
+
+`Burp Suite · Obsidian · Dataview`
+
+</td>
+</tr>
+</table>
+
+Also: a personal cybersecurity portfolio in React ([ANTI-PF](https://github.com/tigpy/ANTI-PF) / redesign in progress) — the public face of the same work.
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**In the hands**
+Linux · networking · Nmap
+Web security · OWASP
+Burp-driven testing
+
+</td>
+<td valign="top" width="34%">
+
+**On the desk**
+GITTY-AI
+Authorized appsec research
+M.Sc. coursework
+DSA as SOC work
+
+</td>
+<td valign="top" width="33%">
+
+**Still opening**
+Privilege escalation
+Active Directory
+SOC operations
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+**Build**
+Python · Java · JavaScript
+React · FastAPI · Flask · Node.js
+
+</td>
+<td valign="top">
+
+**Security**
+Nmap · Burp Suite
+Wireshark · Metasploit
+
+</td>
+<td valign="top">
+
+**Run**
+Linux · Docker · AWS · Git
+MySQL · MongoDB
+
+</td>
+</tr>
+</table>
+
+<pre>
+while (alive) {
+    learn();
+    practice();
+    secure();
 }
-```
-
----
-
-## Contact / report an issue
-
-[Email](mailto:aggsijs527@gmail.com) · [LinkedIn](https://linkedin.com/in/-aryan-artx-) · [TryHackMe](https://tryhackme.com/p/aggsijs527) · [Stack Overflow](https://stackoverflow.com/users/22900112)
-
----
-
-*This log follows continuous delivery. No final release is planned.*
+</pre>
