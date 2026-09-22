@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ```text
 DESIGNATION ..... Aryan Singh
@@ -37,12 +37,7 @@ FOCUS
   > Ethical Hacking / Pentesting
   > SOC & Blue Team Fundamentals
   > Linux & Networking
-```
 
-</td>
-<td width="45%" valign="top">
-
-```text
 [STATUS LIGHTS]
   RECON        ONLINE
   AUTHZ TEST   ONLINE
@@ -50,6 +45,13 @@ FOCUS
   AD / PRIVESC PENDING
   CLEARANCE    STUDENT-HUNTER
 ```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="320"/>
+
+<sub>PORTRAIT FEED — LIVE</sub>
 
 </td>
 </tr>
