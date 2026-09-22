@@ -12,22 +12,22 @@ Building systems. Breaking systems. Trying to understand why they fail.
 
 ### What I build
 
-Security tooling, mostly for myself first. A repo-analysis platform. A lab for practicing
-data structures the way a SOC analyst would think about them, not the way a textbook does.
+Security tooling I actually use — a microservice platform that analyzes repositories,
+and a lab where standard algorithms get rebuilt as SOC-style log processing problems
+instead of textbook exercises.
 
 <br>
 
 ### Selected work
 
 **01 / GITTY-AI**
-Repository analysis, built as separate services — FastAPI, Celery, Neo4j, Qdrant, React.
+Repository analysis, split into services — FastAPI, Celery, Neo4j, Qdrant, React.
 
 **02 / cybersecurity-dsa-lab**
-Core data structures and algorithms, re-approached through SOC log processing and
-security-adjacent problems instead of plain coursework.
+Core data structures and algorithms, re-approached through SOC log processing.
 
 **03 / Bug Bounty OS**
-A private, structured practice — a thirteen-phase workflow for hunting authorization bugs
+A private, unpublished workflow — thirteen phases for hunting authorization bugs
 (RBAC, IDOR) on authorized programs, currently LaunchDarkly and Front.
 
 <br>
@@ -38,11 +38,10 @@ Bug bounty · web application security · backend engineering · security toolin
 
 <br>
 
-### Domains
+### Where the work happens
 
-**Security** — Web security · Linux · Networking · Burp Suite · Nmap
-**Engineering** — Python · Java · JavaScript · React · FastAPI
-**Infrastructure** — Docker · AWS · Git · MySQL
+Security work runs through Linux, Burp Suite, Nmap. The backend is Python and Java,
+sometimes JavaScript and React. Infrastructure is Docker and AWS, versioned with Git.
 
 <br>
 
