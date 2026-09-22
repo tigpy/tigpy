@@ -1,129 +1,93 @@
-`───────────────────────────────── // BEGIN TRANSMISSION ─────────────────────────────────`
+# ARYAN SINGH
+`tigpy`
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### `ARYAN SINGH`
-`tigpy` · Mumbai, IN · UTC+5:30
+*cybersecurity engineer, in training — Mumbai, India*
 
-```text
-STATUS    active
-ROLE      cybersecurity engineer, in training
-DEGREE    M.Sc. Information & Cybersecurity — Guru Nanak Khalsa College
-PRIOR     B.Sc. Information Technology (CGPA 7.5)
-TRACK     web security · appsec · SOC · security tooling
-TARGET    junior security analyst role · eJPT (2027) · relocate CA / IE / AU
-```
+**Aryan Singh** is a B.Sc. IT graduate now reading for an M.Sc. in Information & Cybersecurity at Guru Nanak Khalsa College. Working across web/application security, SOC-adjacent tooling, and authorized security research — building toward a junior security analyst role, an eJPT certification, and eventually a move to Canada, Ireland, or Australia.
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="40%" valign="top" align="center">
 
-<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="260"/>
-
-`FEED // live`
+<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="230"/>
+<br/>
+<sub><i>attached to this release</i></sub>
 
 </td>
 </tr>
 </table>
 
-`───────────────────────────────────────────────────────────────────────────────────────`
+---
 
-## `// 00 — CURRENT SIGNAL`
+# Changelog
 
-Right now: building **GITTY-AI**, a repository-intelligence and security-analysis platform. Running structured, authorized bug bounty cycles under a 19-phase workflow. Reframing core DSA as SOC log-processing problems in a personal lab. Reading toward eJPT.
+*All notable work is logged here, newest first.*
 
-`───────────────────────────────────────────────────────────────────────────────────────`
+## `[gitty-ai]` — building
+Repository- and code-intelligence platform with a security-analysis layer.
+- **Added:** AST parsing, dependency graphing, vector-based vulnerability surfacing across codebases
+- **Stack:** FastAPI, Celery, Neo4j, Qdrant, React
+- **Repo:** github.com/tigpy/gitty-ai
 
-## `// 01 — TRACE LOG`
+## `[bug-bounty-os]` — active
+Structured, authorized security research workflow.
+- **Added:** a 19-phase hunt cycle; RBAC, IDOR, and auth-logic testing across authorized programs
+- **Stack:** Burp Suite, Obsidian, Dataview
+- **Repo:** private
 
-```text
-NODE      GITTY-AI
-TYPE      repository intelligence + security analysis platform
-BUILD     FastAPI · Celery · Neo4j · Qdrant · React
-VECTOR    AST parsing, dependency graphing, vector-based vulnerability
-          surfacing across codebases
-LINK      github.com/tigpy/gitty-ai
-```
-```text
-NODE      cybersecurity-dsa-lab
-TYPE      DSA practice reframed as SOC problems
-BUILD     Python
-VECTOR    core data structures & algorithms applied to log analysis
-          and telemetry-style exercises
-LINK      github.com/tigpy/cybersecurity-dsa-lab
-```
-```text
-NODE      Evidentia
-TYPE      security investigation project
-BUILD     —
-VECTOR    telemetry correlation, evidence verification, security
-          analysis
-```
-```text
-NODE      Bug Bounty OS
-TYPE      structured, authorized security research workflow
-BUILD     Burp Suite · Obsidian · Dataview
-VECTOR    19-phase hunt cycle; RBAC / IDOR / auth-logic focus across
-          authorized programs
-LINK      private
-```
-```text
-NODE      Portfolio-Redesign
-TYPE      personal cybersecurity portfolio
-BUILD     React · Vite · Tailwind · Framer Motion
-VECTOR    dark glassmorphism interface, custom accent system
-LINK      github.com/tigpy
-```
+## `[cybersecurity-dsa-lab]` — building
+Data-structures-and-algorithms practice, reframed around security problems.
+- **Added:** core DSA exercises applied to log-analysis and telemetry-style problems
+- **Stack:** Python
+- **Repo:** github.com/tigpy/cybersecurity-dsa-lab
 
-`───────────────────────────────────────────────────────────────────────────────────────`
+## `[evidentia]` — building
+A security-investigation project.
+- **Added:** telemetry correlation, evidence verification, security analysis
 
-## `// 02 — STACK`
+## `[portfolio-redesign]` — shipped
+Personal cybersecurity portfolio site.
+- **Added:** dark glassmorphism interface, custom accent system
+- **Stack:** React, Vite, Tailwind, Framer Motion
+- **Repo:** github.com/tigpy
 
-```text
-LANG        Python · Java · JavaScript
-SECURITY    Nmap · Burp Suite · Wireshark · Metasploit
-BACKEND     FastAPI · Flask · Node.js · React
-DATA        MySQL · MongoDB
-INFRA       Docker · AWS · Linux
-VCS         Git
-```
+---
 
-`───────────────────────────────────────────────────────────────────────────────────────`
+## Roadmap
 
-## `// 03 — RESEARCH VECTOR`
+Not yet released:
+- eJPT certification — target 2027
+- Closing gaps in OAuth/JWT, GraphQL, and cloud attack surface, flagged while working through a ~60-title security book review
+- A research thread connecting DNA data storage systems to cybersecurity
 
-```text
-COMPLETED     Linux System Administration syllabus · networking
-              (CompTIA Network+ oriented)
-IN PROGRESS   M.Sc. Information & Cybersecurity coursework
-GAP-FILL      OAuth/JWT, GraphQL, cloud attack surface — flagged
-              from a ~60-title security book review
-RESEARCH      DNA data storage systems × cybersecurity
-              (Research Methodology project)
-NEXT          eJPT certification — target 2027
-```
+Already shipped:
+- M.Sc. Information & Cybersecurity coursework — in progress
+- Linux system administration syllabus, networking (CompTIA Network+ oriented) — completed
 
-`───────────────────────────────────────────────────────────────────────────────────────`
+---
 
-## `// 04 — UPLINK`
+## Dependencies
 
-<p>
-<a href="mailto:aggsijs527@gmail.com"><img src="https://img.shields.io/badge/gmail-333333?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/-aryan-artx-"><img src="https://img.shields.io/badge/linkedin-333333?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://tryhackme.com/p/aggsijs527"><img src="https://img.shields.io/badge/tryhackme-333333?style=flat-square&logo=tryhackme&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/22900112"><img src="https://img.shields.io/badge/stackoverflow-333333?style=flat-square&logo=stackoverflow&logoColor=white"></a>
-</p>
-
-`───────────────────────────────────────────────────────────────────────────────────────`
-
-```c
-for (;;) {
-    observe();
-    exploit();   /* authorized only */
-    patch();
-    write_up();
+```json
+{
+  "languages": ["Python", "Java", "JavaScript"],
+  "security": ["Nmap", "Burp Suite", "Wireshark", "Metasploit"],
+  "backend": ["FastAPI", "Flask", "Node.js", "React"],
+  "data": ["MySQL", "MongoDB"],
+  "infra": ["Docker", "AWS", "Linux"],
+  "vcs": ["Git"]
 }
 ```
 
-`────────────────────────────────── // END OF LOG ─────────────────────────────────────`
+---
+
+## Contact / report an issue
+
+[Email](mailto:aggsijs527@gmail.com) · [LinkedIn](https://linkedin.com/in/-aryan-artx-) · [TryHackMe](https://tryhackme.com/p/aggsijs527) · [Stack Overflow](https://stackoverflow.com/users/22900112)
+
+---
+
+*This log follows continuous delivery. No final release is planned.*
