@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=760&lines=Building+GITTY-AI;Security+Research+%7C+Web+Security+%7C+SOC;Turning+Codebases+into+Graphs%2C+Logs+and+Signals;Learning+by+Building+%E2%80%94+Breaking+%E2%80%94+Securing" />
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=760&lines=Building+GITTY-AI;Security+Research+%7C+Web+Security+%7C+SOC;Turning+Codebases+into+Graphs%2C+Logs+and+Signals;Learning+by+Building+%E2%80%94+Breaking+%E2%80%94+Securing"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
@@ -34,7 +35,8 @@
 
 ## `whoami`
 
-**Aryan Singh**  
+### Aryan Singh
+
 `tigpy` · Mumbai, India
 
 BSc IT Graduate with hands-on experience across **Linux, networking,
@@ -55,9 +57,9 @@ The common thread is simple:
 <td width="38%" align="center">
 
 <img
-src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif"
-width="270"
-alt="working at computer"
+  src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif"
+  width="270"
+  alt="Working at computer"
 />
 
 <br>
@@ -74,12 +76,15 @@ alt="working at computer"
 <a href="mailto:aggsijs527@gmail.com">
 <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=050816" />
 </a>
+
 <a href="https://linkedin.com/in/-aryan-artx-">
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=050816" />
 </a>
+
 <a href="https://tryhackme.com/p/aggsijs527">
 <img src="https://img.shields.io/badge/TryHackMe-050816?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=050816" />
 </a>
+
 <a href="https://stackoverflow.com/users/22900112">
 <img src="https://img.shields.io/badge/Stack%20Overflow-050816?style=for-the-badge&logo=stackoverflow&logoColor=F58025&labelColor=050816" />
 </a>
@@ -93,31 +98,31 @@ alt="working at computer"
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Security
 
 - Web Application Security
 - Authorization / RBAC / IDOR
 - Linux & Networking
-- SOC fundamentals
+- SOC Fundamentals
 - Burp Suite
 - Nmap
-- Security research
+- Security Research
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Engineering
 
-- Repository analysis
-- Backend systems
-- AST parsing
-- Dependency graphs
-- Security tooling
-- DSA through security problems
-- AI-assisted security research
+- Repository Analysis
+- Backend Systems
+- AST Parsing
+- Dependency Graphs
+- Security Tooling
+- DSA Through Security Problems
+- AI-Assisted Security Research
 
 </td>
 
@@ -144,7 +149,7 @@ Repository intelligence and security analysis platform.
 It parses codebases, builds dependency relationships and combines
 structural analysis with vector search to surface useful signals.
 
-**Core stack**
+**Core Stack**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,docker,redis&theme=dark" />
 
@@ -165,7 +170,7 @@ Data structures and algorithms rebuilt around security problems.
 Examples include log normalization, failed-login detection,
 IOC processing and telemetry-style exercises.
 
-**Core stack**
+**Core Stack**
 
 <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 
@@ -222,7 +227,10 @@ behavior across authorized programs.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,nodejs,html,css,mysql,mongodb,docker,aws,linux,bash,git,github,vscode&perline=9&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,nodejs,html,css,mysql,mongodb,docker,aws,linux,bash,git,github,vscode&perline=9&theme=dark"
+  alt="Technology stack"
+/>
 
 </p>
 
@@ -239,7 +247,7 @@ behavior across authorized programs.
 
 ---
 
-# 📡 What I'm Working On
+# 🛰️ What I'm Working On
 
 ```text
 GITTY-AI
@@ -263,33 +271,3 @@ LEARNING
 ├── security engineering
 ├── AI security
 └── practical offensive + defensive security
-
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tigpy&show_icons=true&hide_border=true&bg_color=050816&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigpy&layout=compact&hide_border=true&bg_color=050816&title_color=00c6ff&text_color=c9d1d9"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tigpy&hide_border=true&background=050816&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=6b7280"
-    width="700"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tigpy&bg_color=050816&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true"
-    width="95%"
-  />
-</p>
