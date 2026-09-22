@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%">
+<img src="./assets/hero.png" width="100%" alt="Aryan Singh — Cybersecurity, Software, Security Research">
 
 <img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="200" align="right">
 
@@ -12,7 +12,7 @@ Building systems. Breaking systems. Trying to understand why they fail.
 Security tooling I actually use — a microservice platform that analyzes repositories,
 and a lab where standard algorithms get rebuilt as SOC-style log processing problems.
 
-<img src="assets/projects.svg" width="100%">
+<img src="./assets/projects.png" width="100%" alt="Selected work — GITTY-AI, cybersecurity-dsa-lab, Bug Bounty OS">
 
 <br>
 
@@ -29,4 +29,4 @@ sometimes JavaScript and React. Infrastructure is Docker and AWS, versioned with
 
 ---
 
-[Email](mailto:aggsijs527@gmail.com) · [LinkedIn](https://linkedin.com/in/-aryan-artx-) · [TryHackMe](https://tryhackme.com/p/aggsijs527) · [Stack Overflow](https://stackoverflow.com/users/22900112)+++
+[Email](mailto:aggsijs527@gmail.com) · [LinkedIn](https://linkedin.com/in/-aryan-artx-) · [TryHackMe](https://tryhackme.com/p/aggsijs527) · [Stack Overflow](https://stackoverflow.com/users/22900112)
