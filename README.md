@@ -1,49 +1,36 @@
-<!-- ORBIT // SENTRY — tigpy console -->
+<!-- CASE FILE — SUBJECT: TIGPY -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=140&color=0:070b10,100:0d1a22&text=ORBIT%20%2F%2F%20SENTRY&fontColor=7ee0ff&fontSize=34&fontAlignY=45&desc=NODE%3A%20tigpy%20—%20CLEARANCE%3A%20STUDENT-HUNTER&descAlignY=68&descSize=15&descColor=e8eef2"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=130&color=0:1d1a17,100:3a2f28&text=CASE%20FILE%20%E2%80%94%20SUBJECT%3A%20TIGPY&fontColor=e8dcc8&fontSize=28&desc=STATUS%3A%20OPEN%20INVESTIGATION%20%E2%80%94%20AUTHORIZED%20TARGETS%20ONLY&descAlignY=75&descSize=13&descColor=c1121f"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/NODE-tigpy-7ee0ff?style=flat-square&labelColor=070b10"/>
-<img src="https://img.shields.io/badge/CLEARANCE-STUDENT--HUNTER-c9a227?style=flat-square&labelColor=070b10"/>
-<img src="https://img.shields.io/badge/THEATER-WEB%20APP%20%2F%20AUTHZ-7ee0ff?style=flat-square&labelColor=070b10"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20HUNT-e8eef2?style=flat-square&labelColor=070b10"/>
+<img src="https://img.shields.io/badge/CASE-OPEN-c1121f?style=flat-square&labelColor=1d1a17"/>
+<img src="https://img.shields.io/badge/CLEARANCE-STUDENT--HUNTER-3a2f28?style=flat-square&labelColor=1d1a17&color=d4a373"/>
+<img src="https://img.shields.io/badge/JURISDICTION-WEB%20APP%20%2F%20AUTHZ-3a2f28?style=flat-square&labelColor=1d1a17&color=d4a373"/>
+<img src="https://img.shields.io/badge/LAST%20SEEN-ACTIVE%20HUNT-c1121f?style=flat-square&labelColor=1d1a17"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7EE0FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%7C+Bug+Bounty+Hunter+%7C+Building+in+Public;Scanning%3A+RBAC+%2F+IDOR+%2F+Authorization+Logic;Uplink%3A+LaunchDarkly+%2B+Front"/>
-</p>
+---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:7ee0ff"/>
-</p>
-
-### `// 01  SYSTEM DOSSIER`
+### `TAB 01 — SUBJECT PROFILE`
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
 ```text
-DESIGNATION ..... Aryan Singh
-CALLSIGN ......... tigpy
-CLASS ............ BSc IT
-SECTOR ........... India
-OBJECTIVE ........ Security Analyst / Pentester
+SUBJECT ........... Aryan Singh
+ALIAS .............. tigpy
+EDUCATION .......... BSc IT
+LAST KNOWN LOCATION  India
+DECLARED INTENT .... Security Analyst / Pentester role
 
-FOCUS
+KNOWN AREAS OF OPERATION
   > Web App Security & Bug Bounty
   > Ethical Hacking / Pentesting
   > SOC & Blue Team Fundamentals
   > Linux & Networking
-
-[STATUS LIGHTS]
-  RECON        ONLINE
-  AUTHZ TEST   ONLINE
-  SOC LAB      ONLINE
-  AD / PRIVESC PENDING
-  CLEARANCE    STUDENT-HUNTER
 ```
 
 </td>
@@ -51,79 +38,78 @@ FOCUS
 
 <img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="320"/>
 
-<sub>PORTRAIT FEED — LIVE</sub>
+<sub>EXHIBIT A — SUBJECT PHOTO (ATTACHED)</sub>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:c9a227"/>
-</p>
+---
 
-### `// 02  TELEMETRY`
+### `TAB 02 — FIELD LOG`
 
-| ⟶ HUNT | ⟶ LAB | ⟶ BUILD | ⟶ NEXT |
-|:---|:---|:---|:---|
-| LaunchDarkly (Bugcrowd) + Front (HackerOne) — RBAC / IDOR / authz logic | `cybersecurity-dsa-lab` — DSA rebuilt through a SOC lens | **GITTY-AI** — repo-analysis microservices (FastAPI, Celery, Neo4j, Qdrant, React) | Privilege Escalation → Active Directory |
+```text
+ENTRY 001  Under active authorized engagement on LaunchDarkly (Bugcrowd)
+           and Front (HackerOne). Focus: RBAC / IDOR / authorization logic.
 
-```mermaid
-graph LR
-A[HUNT] --> B[LAB]
-B --> C[BUILD]
-C --> D[NEXT]
-style A fill:#070b10,stroke:#7ee0ff,color:#e8eef2
-style B fill:#070b10,stroke:#7ee0ff,color:#e8eef2
-style C fill:#070b10,stroke:#7ee0ff,color:#e8eef2
-style D fill:#070b10,stroke:#c9a227,color:#e8eef2
+ENTRY 002  Operating a 13-phase bug bounty workflow, tracked in a
+           self-built Obsidian "Bug Bounty OS" with Dataview dashboards.
+
+ENTRY 003  Co-building GITTY-AI — a repo-analysis microservices platform
+           (FastAPI, Celery, Neo4j, Qdrant, React).
+
+ENTRY 004  Maintaining cybersecurity-dsa-lab — core DSA rebuilt through
+           a SOC / security lens.
+
+ENTRY 005  Working knowledge of Linux and networking, applied across
+           web security engagements.
+
+ENTRY 006  NEXT UP — Privilege Escalation, Active Directory,
+           SOC Operations.
 ```
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:7ee0ff"/>
-</p>
+---
 
-### `// 03  MODULE BAY`
+### `TAB 03 — EXHIBIT ROOM`
 
-**◤ OFFENSIVE / RECON ◢**
+**Evidence Group A — Recon Tools**
 <p align="center"><img src="https://skillicons.dev/icons?i=linux,bash,git,github,postman&theme=dark"/></p>
 
-**◤ BUILD ◢**
+**Evidence Group B — Field Kit**
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,mysql&theme=dark"/></p>
 
-**◤ PLATFORM ◢**
+**Evidence Group C — Operating Environment**
 <p align="center"><img src="https://skillicons.dev/icons?i=docker,aws,vscode&theme=dark"/></p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:c9a227"/>
-</p>
+---
 
-### `// 04  TWIN CONSOLE — MISSION / LEARNING`
+### `TAB 04 — CASE STATUS`
 
 <table>
 <tr>
-<th width="50%" align="left">BOOT LOG</th>
-<th width="50%" align="left">CAPABILITY MATRIX</th>
+<th width="50%" align="left">INVESTIGATION LOG</th>
+<th width="50%" align="left">EVIDENCE FOLDERS</th>
 </tr>
 <tr>
 <td valign="top">
 
 ```text
-[✓] linux_fundamentals.......loaded
-[✓] networking_basics........loaded
-[✓] nmap_enumeration.........loaded
-[✓] web_security_basics......loaded
-[✓] owasp_top10..............loaded
-[✓] bug_bounty_workflow......loaded  (Burp Suite / IDOR / RBAC)
-[~] active_hunt..............running (LaunchDarkly, Front)
-[ ] privilege_escalation.....queued
-[ ] active_directory.........queued
-[ ] soc_operations...........queued
+[CLOSED] Linux Fundamentals
+[CLOSED] Networking Basics
+[CLOSED] Nmap Enumeration
+[CLOSED] Web Security Basics
+[CLOSED] OWASP Top 10
+[CLOSED] Bug Bounty Workflow (Burp Suite / IDOR / RBAC)
+[ACTIVE] Active Bug Hunting — LaunchDarkly, Front
+[PENDING] Privilege Escalation
+[PENDING] Active Directory
+[PENDING] SOC Operations
 ```
 
 </td>
 <td valign="top">
 
-| OFFENSIVE | DEFENSIVE |
+| FOLDER: OFFENSIVE | FOLDER: DEFENSIVE |
 |:---|:---|
 | Bug Bounty / IDOR & RBAC | Linux Hardening |
 | Web App Pentesting | SOC Log Analysis |
@@ -135,61 +121,51 @@ style D fill:#070b10,stroke:#c9a227,color:#e8eef2
 </tr>
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:7ee0ff"/>
-</p>
+---
 
-### `// 05  ANALYTICS HUD`
+### `TAB 05 — SURVEILLANCE METRICS`
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/tigpy?style=flat-square&label=FOLLOWERS&labelColor=070b10&color=7ee0ff"/>
-<img src="https://img.shields.io/github/stars/tigpy?style=flat-square&label=STARS&labelColor=070b10&color=c9a227"/>
-<img src="https://img.shields.io/badge/PUBLIC%20REPOS-20-e8eef2?style=flat-square&labelColor=070b10"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=tigpy&hide_border=true&background=070b10&border=0d1a22&stroke=7ee0ff&ring=7ee0ff&fire=c9a227&currStreakLabel=7ee0ff&sideLabels=e8eef2&currStreakNum=e8eef2&dates=8a94a6&sideNums=e8eef2"/>
+<img src="https://img.shields.io/github/followers/tigpy?style=flat-square&label=WATCHERS&labelColor=1d1a17&color=d4a373"/>
+<img src="https://img.shields.io/github/stars/tigpy?style=flat-square&label=STARS%20LOGGED&labelColor=1d1a17&color=c1121f"/>
+<img src="https://img.shields.io/badge/OPEN%20FILES-20-e8dcc8?style=flat-square&labelColor=1d1a17"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:c9a227"/>
+<img src="https://streak-stats.demolab.com?user=tigpy&hide_border=true&background=1d1a17&border=3a2f28&stroke=d4a373&ring=c1121f&fire=c1121f&currStreakLabel=d4a373&sideLabels=e8dcc8&currStreakNum=e8dcc8&dates=8a7a6a&sideNums=e8dcc8"/>
 </p>
 
-### `// 06  UPLINK`
+---
+
+### `TAB 06 — CONTACT THE INFORMANT`
 
 <p align="center">
 
 <a href="mailto:aggsijs527@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7ee0ff?style=flat-square&logo=gmail&logoColor=070b10&labelColor=070b10"/>
+<img src="https://img.shields.io/badge/Gmail-d4a373?style=flat-square&logo=gmail&logoColor=1d1a17&labelColor=1d1a17"/>
 </a>
 <a href="https://linkedin.com/in/-aryan-artx-">
-<img src="https://img.shields.io/badge/LinkedIn-7ee0ff?style=flat-square&logo=linkedin&logoColor=070b10&labelColor=070b10"/>
+<img src="https://img.shields.io/badge/LinkedIn-d4a373?style=flat-square&logo=linkedin&logoColor=1d1a17&labelColor=1d1a17"/>
 </a>
 <a href="https://tryhackme.com/p/aggsijs527">
-<img src="https://img.shields.io/badge/TryHackMe-c9a227?style=flat-square&logo=tryhackme&logoColor=070b10&labelColor=070b10"/>
+<img src="https://img.shields.io/badge/TryHackMe-c1121f?style=flat-square&logo=tryhackme&logoColor=e8dcc8&labelColor=1d1a17"/>
 </a>
 <a href="https://stackoverflow.com/users/22900112">
-<img src="https://img.shields.io/badge/StackOverflow-e8eef2?style=flat-square&logo=stackoverflow&logoColor=070b10&labelColor=070b10"/>
+<img src="https://img.shields.io/badge/StackOverflow-e8dcc8?style=flat-square&logo=stackoverflow&logoColor=1d1a17&labelColor=1d1a17"/>
 </a>
 
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b10,100:7ee0ff"/>
-</p>
+---
 
 <div align="center">
 
 ```text
-[DAEMON] orbit_sentry.service — active (running)
-  ├─ watch : authz surfaces (LaunchDarkly, Front)
-  ├─ log   : findings → obsidian://bug-bounty-os
-  ├─ build : gitty-ai, cybersecurity-dsa-lab
-  └─ status: MISSION CONTINUES
+[STAMP] CASE REMAINS OPEN — INVESTIGATION CONTINUES
 ```
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:0d1a22,100:070b10&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:3a2f28,100:1d1a17&section=footer"/>
 </p>
