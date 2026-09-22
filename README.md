@@ -1,78 +1,84 @@
 <!-- ARCHIVE — RESTRICTED STACKS — CALL NO. TIGPY/2026 -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:e9dfc6,100:d8cba3&text=ARCHIVE%20%E2%80%94%20RESTRICTED%20STACKS&fontColor=2b2118&fontSize=22&desc=CALL%20NO.%20TIGPY%2F2026&descAlignY=78&descSize=13&descColor=8b1e1e"/>
-</p>
+<h3 align="center">SPECIAL COLLECTIONS — RESTRICTED STACKS</h3>
+<p align="center"><sub>catalog record reproduced in full · not for general circulation</sub></p>
 
-<table width="100%" cellpadding="10" style="border:2px solid #2b2118;">
-<tr>
-<td colspan="3" bgcolor="#f4ecd8">
+<hr>
 
-**SUBJECT** — Aryan Singh &nbsp;·&nbsp; **CATALOGED AS** — `tigpy` &nbsp;·&nbsp; **CLASSIFICATION** — BSc IT, India
-**ACCESSION NOTE** — filed under Web Application Security / Bug Bounty; cross-reference Ethical Hacking, SOC Fundamentals
-**CIRCULATION STATUS** — 🔴 checked out, active hunting — not yet returned to shelf
+<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="190" align="right">
 
-</td>
-<td rowspan="4" width="230" align="center" bgcolor="#e9dfc6">
-<img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="200"><br>
-<sub>subject photograph — stapled, do not remove</sub>
-</td>
-</tr>
-<tr>
-<td colspan="3" bgcolor="#f4ecd8">
+```text
+CLASS MARK ........ TIGPY/2026
+SUBJECT ............ SINGH, ARYAN
+ALSO CATALOGED AS .. "tigpy"
+CLASSIFICATION ..... BSc IT — India
+SUBJECT HEADING .... Web Application Security ; Bug Bounty ;
+                     Ethical Hacking ; SOC Fundamentals
+ACCESS .............. RESTRICTED — ACTIVE
+```
 
-**MARGINALIA** — Actively hunting on two authorized programs, LaunchDarkly (Bugcrowd) and Front (HackerOne), working RBAC / IDOR / authorization-logic angles through a 13-phase workflow logged in a self-built Obsidian "Bug Bounty OS" (Dataview). Co-authoring GITTY-AI, a repo-analysis microservices platform (FastAPI, Celery, Neo4j, Qdrant, React). Also maintaining `cybersecurity-dsa-lab`, where standard DSA problems get re-annotated through a SOC lens.
+*Accession note, in the archivist's hand —* the subject is presently engaged in two authorized
+security-research programs: **LaunchDarkly**, filed under Bugcrowd, and **Front**, filed under
+HackerOne. Both concern authorization logic — RBAC and IDOR specifically. Work is tracked through
+a thirteen-phase procedure, itself recorded in a private index the subject calls the *Bug Bounty
+OS*, kept in Obsidian with cross-referenced tables.
 
-</td>
-</tr>
-<tr>
-<td colspan="3" bgcolor="#f4ecd8">
+Two further holdings are attached to this record: **GITTY-AI**, a repository-analysis platform
+built as separate services (FastAPI, Celery, Neo4j, Qdrant, React), and **`cybersecurity-dsa-lab`**,
+in which standard algorithm exercises are re-filed under security operations headings rather than
+left as plain coursework.
 
-**CROSS-REFERENCE INDEX** — status marked as filed by hand, not generated
+<br clear="right">
+<hr>
 
-| MK | ENTRY | FILE |
-|:--:|:------|:-----|
-| ✔ | Linux Fundamentals | core |
-| ✔ | Networking Basics | core |
-| ✔ | Nmap Enumeration | offense |
-| ✔ | Web Security Basics | offense |
-| ✔ | OWASP Top 10 | offense |
-| ✔ | Bug Bounty Workflow — Burp Suite, IDOR/RBAC | offense |
-| ◐ | Active Hunt — LaunchDarkly, Front | offense |
-| ✔ | CTF Challenges | offense |
-| — | Privilege Escalation | offense, queued |
-| — | Active Directory | defense, queued |
-| — | SOC Operations | defense, queued |
-| ref | Linux Hardening | defense |
-| ref | SOC Log Analysis | defense |
-| ref | SIEM Basics | defense |
-| ref | Incident Response | defense |
+**CROSS-REFERENCE INDEX** — mark, entry, register
+<sub>legend: ✔ closed · ◐ open, in progress · — queued, not yet opened · ref background reading</sub>
 
-</td>
-</tr>
-<tr>
-<td colspan="3" bgcolor="#e9dfc6">
+```text
+✔   Linux Fundamentals ................. core
+✔   Networking Basics ................... core
+✔   Nmap Enumeration ..................... offense
+✔   Web Security Basics .................. offense
+✔   OWASP Top 10 .......................... offense
+✔   Bug Bounty Procedure — Burp Suite, IDOR/RBAC .. offense
+◐   Active Hunt — LaunchDarkly, Front ..... offense
+✔   CTF Practice .......................... offense
+—   Privilege Escalation ................. offense, queued
+—   Active Directory ..................... defense, queued
+—   SOC Operations ....................... defense, queued
+ref Linux Hardening ....................... defense
+ref SOC Log Analysis ....................... defense
+ref SIEM Fundamentals ...................... defense
+ref Incident Response ....................... defense
+```
 
-**MATERIALS ON RECORD**
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,java,html,css,js,mysql,postman,vscode,docker,aws,react&theme=light" height="30">
-&nbsp;+ Burp Suite (not iconized in catalog system)
+<hr>
 
-</td>
-</tr>
-<tr>
-<td colspan="4" bgcolor="#f4ecd8">
+**MATERIALS EXAMINED** — tools and languages on record, by function
 
-**REQUEST A DUPLICATE / CONTACT THE ARCHIVIST**
-<a href="mailto:aggsijs527@gmail.com">Gmail</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/-aryan-artx-">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://tryhackme.com/p/aggsijs527">TryHackMe</a> &nbsp;·&nbsp;
-<a href="https://stackoverflow.com/users/22900112">StackOverflow</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/tigpy?style=flat-square&label=times%20referenced&labelColor=2b2118&color=8b1e1e">
-<img src="https://img.shields.io/github/stars/tigpy?style=flat-square&label=stars%20on%20record&labelColor=2b2118&color=8b1e1e">
+```text
+LANGUAGES ........ Python, Java, JavaScript
+SYSTEMS .......... Linux, Bash, Docker, AWS
+WEB .............. HTML, CSS, React, MySQL
+TOOLING .......... Git, GitHub, Postman, Burp Suite, VS Code
+```
 
-</td>
-</tr>
-</table>
+<hr>
 
-<p align="center"><sub>— card remains in circulation; last annotated by the subject, not returned to the shelf —</sub></p>
+**CIRCULATION** — reference count on this record, GitHub-side
+
+```text
+REFERENCED BY ..... watch the repository for current count
+STARRED ............ see repository page
+```
+
+<sub>figures omitted here deliberately — live counts belong on the shelf itself, not copied
+onto the card, where they would go stale.</sub>
+
+<hr>
+
+**REQUEST ACCESS / CONTACT THE ARCHIVIST**
+
+[Gmail](mailto:aggsijs527@gmail.com) · [LinkedIn](https://linkedin.com/in/-aryan-artx-) · [TryHackMe](https://tryhackme.com/p/aggsijs527) · [StackOverflow](https://stackoverflow.com/users/22900112)
+
+<p align="center"><sub>— end of record; card has not been withdrawn from circulation —</sub></p>
