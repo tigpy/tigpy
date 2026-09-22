@@ -263,3 +263,33 @@ LEARNING
 ├── security engineering
 ├── AI security
 └── practical offensive + defensive security
+
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tigpy&show_icons=true&hide_border=true&bg_color=050816&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigpy&layout=compact&hide_border=true&bg_color=050816&title_color=00c6ff&text_color=c9d1d9"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tigpy&hide_border=true&background=050816&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=6b7280"
+    width="700"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tigpy&bg_color=050816&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
