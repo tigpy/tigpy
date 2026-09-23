@@ -261,7 +261,7 @@ behavior across authorized programs.
 ---
 
 <!-- ========================================================= -->
-<!--                      GITHUB ACTIVITY                      -->
+<!--                      GITHUB ACTIVITYS                      -->
 <!-- ========================================================= -->
 
 # 📊 GitHub Activity
